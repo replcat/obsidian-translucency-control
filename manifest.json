@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-translucency-control",
+	"name": "Translucency Control",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Add a command to toggle UI translucency.",
+	"author": "replcat",
+	"authorUrl": "https://github.com/replcat",
+	"isDesktopOnly": true
+}
